@@ -1,5 +1,6 @@
 
 
+diredz@gmail.com
 # Guide to Using dSPACE ControlDesk and MicroNova EXAM for Automotive Test Automation
 
 This guide is tailored for an experienced automotive test automation engineer with 15 years of experience using ETAS tools (e.g., INCA) and ECU-TEST. It provides practical steps to set up and use **dSPACE ControlDesk** and **MicroNova EXAM** for ECU testing, focusing on hardware-in-the-loop (HIL) simulation and test automation. The guide assumes familiarity with ECU testing concepts and draws parallels with ECU-TEST workflows.
